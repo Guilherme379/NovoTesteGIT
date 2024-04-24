@@ -1,0 +1,45 @@
+2023/06/22 15:06:43.812704: UFTP version 5.0.1  Copyright (C) 2001-2022  Dennis A. Bush
+2023/06/22 15:06:43.843958: Loaded ECDSA key with curve prime256v1 and fingerprint DF:84:0B:44:90:AE:D7:E9:05:C3:7E:45:9D:A0:64:3A:BE:DE:BB:38
+2023/06/22 18:22:11.170195: Got CTRL_SHUTDOWN_EVENT
+2023/06/22 18:22:11.326445: Got CTRL_C_EVENT
+2024/01/31 14:46:55.837909: UFTP version 5.0.1  Copyright (C) 2001-2022  Dennis A. Bush
+2024/01/31 14:46:55.837909: Loaded ECDSA key with curve prime256v1 and fingerprint AC:6A:D0:FD:EE:1A:DB:F6:BC:A2:00:0E:0A:63:35:96:8C:0D:0D:90
+2024/01/31 14:47:37.432400: Got CTRL_SHUTDOWN_EVENT
+2024/01/31 14:47:38.166772: UFTP version 5.0.1  Copyright (C) 2001-2022  Dennis A. Bush
+2024/01/31 14:47:38.166772: Loaded ECDSA key with curve prime256v1 and fingerprint 86:73:35:0A:F7:95:A2:2A:F3:5C:A5:9E:B0:51:83:B0:36:70:0A:C8
+2024/01/31 14:47:42.432545: Got CTRL_SHUTDOWN_EVENT
+2024/01/31 14:48:32.000898: UFTP version 5.0.1  Copyright (C) 2001-2022  Dennis A. Bush
+2024/01/31 14:48:32.000898: Loaded ECDSA key with curve prime256v1 and fingerprint 38:5C:FB:A6:00:47:31:B1:36:3C:6E:44:07:CA:13:3C:15:DE:F3:78
+2024/02/01 09:04:31.827066: Got CTRL_SHUTDOWN_EVENT
+2024/02/01 09:04:31.842681: Got CTRL_C_EVENT
+2024/02/01 09:04:56.729861: UFTP version 5.0.1  Copyright (C) 2001-2022  Dennis A. Bush
+2024/02/01 09:04:56.729861: Loaded ECDSA key with curve prime256v1 and fingerprint 48:1C:2A:9F:37:75:A5:7B:D6:7A:C0:19:76:98:B1:22:B6:4F:49:40
+2024/02/01 12:25:49.911407: Got CTRL_SHUTDOWN_EVENT
+2024/02/01 12:25:49.942559: Got CTRL_C_EVENT
+2024/02/01 12:26:19.365796: UFTP version 5.0.1  Copyright (C) 2001-2022  Dennis A. Bush
+2024/02/01 12:26:19.365796: Loaded ECDSA key with curve prime256v1 and fingerprint D0:3B:1C:31:93:12:5B:92:30:1D:5F:16:36:A0:56:82:8B:B9:56:59
+2024/02/01 13:29:02.692677: Got CTRL_SHUTDOWN_EVENT
+2024/02/01 13:29:02.717679: Got CTRL_C_EVENT
+2024/02/01 13:29:42.125470: UFTP version 5.0.1  Copyright (C) 2001-2022  Dennis A. Bush
+2024/02/01 13:29:42.125470: Loaded ECDSA key with curve prime256v1 and fingerprint 3F:CF:8D:48:1F:3F:AF:DE:8E:53:D8:92:6B:97:EE:70:BA:2F:F4:C1
+2024/02/01 15:36:31.852982: Got CTRL_SHUTDOWN_EVENT
+2024/02/01 15:36:31.880362: Got CTRL_C_EVENT
+2024/02/27 08:47:39.051917: UFTP version 5.0.1  Copyright (C) 2001-2022  Dennis A. Bush
+2024/02/27 08:47:39.051917: Loaded ECDSA key with curve prime256v1 and fingerprint E0:E8:B7:B2:D9:F7:71:C1:49:80:5C:C7:FA:85:91:04:94:A7:D5:7E
+2024/02/27 09:14:56.967661: Got CTRL_SHUTDOWN_EVENT
+2024/02/27 09:14:56.998672: Got CTRL_C_EVENT
+2024/02/27 09:14:57.061262: Error leaving multicast group: (10049) The requested address is not valid in its context.
+2024/02/27 09:14:57.061262: Error leaving multicast group: (10049) The requested address is not valid in its context.
+2024/02/27 09:14:57.061262: Error leaving multicast group: (10049) The requested address is not valid in its context.
+2024/03/11 20:29:47.544053: UFTP version 5.0.1  Copyright (C) 2001-2022  Dennis A. Bush
+2024/03/11 20:29:47.554075: Loaded ECDSA key with curve prime256v1 and fingerprint 20:CF:CB:63:4C:B9:9D:28:99:3A:CD:D7:00:C5:30:A7:A7:31:D7:C7
+2024/03/11 22:35:05.542455: Got CTRL_SHUTDOWN_EVENT
+2024/03/11 22:35:05.573642: Got CTRL_C_EVENT
+2024/03/11 22:35:05.823642: Error leaving multicast group: (10049) The requested address is not valid in its context.
+2024/03/11 22:35:05.823642: Error leaving multicast group: (10049) The requested address is not valid in its context.
+2024/03/11 22:35:36.040262: UFTP version 5.0.1  Copyright (C) 2001-2022  Dennis A. Bush
+2024/03/11 22:35:36.050267: Loaded ECDSA key with curve prime256v1 and fingerprint 05:79:18:7B:2F:D6:27:34:6D:FF:66:16:40:CF:87:6A:B0:1F:BB:23
+2024/03/11 22:54:22.806911: Got CTRL_SHUTDOWN_EVENT
+2024/03/11 22:54:22.838149: Got CTRL_C_EVENT
+2024/04/24 06:39:01.677323: UFTP version 5.0.1  Copyright (C) 2001-2022  Dennis A. Bush
+2024/04/24 06:39:01.677323: Loaded ECDSA key with curve prime256v1 and fingerprint 35:5F:2B:00:5B:94:D0:B5:57:62:B1:D8:4F:6B:D3:64:94:13:EE:69
